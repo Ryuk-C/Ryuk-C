@@ -10,7 +10,6 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://user-images.githubusercontent.com/78587220/181483063-2d82bda5-a7a2-4377-8dd3-e40975a2d0ed.png" alt="git" width="45" height="45"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/></a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/> </a>
