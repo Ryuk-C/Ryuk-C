@@ -1,25 +1,30 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Cuma+Haznedar"></p>
+# Hello! 👋
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/cumahaznedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CumaHaznedar" height="30" width="40" /></a>
-<a href="https://instagram.com/cumahaznedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CumaHaznedar" height="30" width="40" /></a>
-<a href="mailto:cumahaznedar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/arcade/256/gmail.png" alt="CumaHaznedar" height="40" width="40" /></a>  
-  
-</p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://user-images.githubusercontent.com/78587220/181483063-2d82bda5-a7a2-4377-8dd3-e40975a2d0ed.png" alt="git" width="45" height="45"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42"/></a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> </p>
-</p>
-</p>
+✨ My name is **Cuma HAZNEDAR**, I'm an IOS 📱 Developer <br>
 
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryuk-C&&show_icons=true&theme=tokyonight" width="410" height="175">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuk-C&layout=compact&theme=tokyonight" width="410" height="175">
+## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Ryuk-C&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuk-C&layout=compact&theme=dark" />
 </p>
+
+## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryuk-C&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## 📲 Android & iOS  Apps 💻
+<code><a href="https://play.google.com/store/apps/developer?id=Haznedarl" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
+<code><a href="https://apps.apple.com/us/developer/https://play.google.com/store/apps/developer?id=Haznedar" target="_blank"><img height="50" src="https://images.idgesg.net/images/article/2019/07/ios13-app-store-hero-100802526-large.jpg"></a></code>
+
+
+## 📝 How to access 🔓 blog post ✍🏻
+
+[![Medium Badge](https://img.shields.io/badge/CumaHAZNEDAR-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@cumahaznedar)
+
+
+## 📫 How 👀 to reach me 💁🏻‍♂️
+
+You can find and get touch with me on these accounts 🙈
+
+[![LinkedIn Badge](https://img.shields.io/badge/CumaHAZNEDAR-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cumahaznedar/)
