@@ -6,8 +6,8 @@
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Ryuk-C&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" width="450" height="180"/> 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuk-C&layout=compact&theme=dark" width="450" height="180"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Ryuk-C&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" width="400" height="180"/> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuk-C&layout=compact&theme=dark" width="400" height="180"/>
 </p>
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
