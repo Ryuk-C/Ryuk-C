@@ -16,7 +16,7 @@
 
 ## 📲 Android & iOS  Apps 💻
 <code><a href="https://play.google.com/store/apps/developer?id=Haznedar" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
-<code><a href="https://apps.apple.com/us/developer/https://play.google.com/store/apps/developer?id=Haznedar" target="_blank"><img height="50" src="https://images.idgesg.net/images/article/2019/07/ios13-app-store-hero-100802526-large.jpg"></a></code>
+<code><a href="https://apps.apple.com/tr/developer/cuma-haznedar/id1712791574" target="_blank"><img height="50" src="https://images.idgesg.net/images/article/2019/07/ios13-app-store-hero-100802526-large.jpg"></a></code>
 
 
 ## 📝 How to access 🔓 blog post ✍🏻
